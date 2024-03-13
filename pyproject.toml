@@ -1,0 +1,6 @@
+[tool.poetry]
+name = "AULA_AOVIVO-MEHDI"
+version = "0.1.0"
+descripition = ""
+
+readme = "README.md"
